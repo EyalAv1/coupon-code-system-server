@@ -143,3 +143,8 @@
 /Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/appsettings.json
 /Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/CouponsCodeSystemServer.deps.json
 /Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/CouponsCodeSystemServer.runtimeconfig.json
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/out/web.config
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/out/appsettings.Development.json
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/out/appsettings.json
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/out/CouponsCodeSystemServer.deps.json
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/bin/Debug/net8.0/out/out/CouponsCodeSystemServer.runtimeconfig.json
