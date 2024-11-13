@@ -1,0 +1,8 @@
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.csproj.AssemblyReference.cache
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.AssemblyInfoInputs.cache
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.AssemblyInfo.cs
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.csproj.CoreCompileInputs.cache
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.MvcApplicationPartsAssemblyInfo.cs
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.MvcApplicationPartsAssemblyInfo.cache
+/Users/eyalavni/Desktop/CouponsCodeSystem-server/CouponsCodeSystemServer/CouponsCodeSystemServer/obj/Release/net7.0/CouponsCodeSystemServer.sourcelink.json
